@@ -12,14 +12,5 @@
     "next": "^14.2.14",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
-  },
-  "devDependencies": {
-    "@babel/preset-env": "^7.25.4",
-    "@babel/preset-react": "^7.24.7",
-    "babel-loader": "^9.2.1",
-    "css-loader": "^7.1.2",
-    "style-loader": "^4.0.0",
-    "webpack": "^5.95.0",
-    "webpack-cli": "^5.1.4"
   }
 }

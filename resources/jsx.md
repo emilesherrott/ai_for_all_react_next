@@ -6,12 +6,12 @@ Browsers don't understand JSX so it needs to be transpilled into vanilla Javascr
 
 **Example of JSX**
 ```jsx
-<div>Hello World</div>
+<h1>Hello World</h1>
 ```
 
 **Plain Javascript equivalent**
 ```js
-React.createElement('div', null, 'Hello World')
+React.createElement('h1', null, 'Hello World')
 ```
 
 - First argument: The type of element we want React to create

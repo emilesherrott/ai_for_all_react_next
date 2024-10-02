@@ -1,0 +1,47 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[3]!./app/App.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************/
+#heading {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[3]!./app/components/Button/Button.css ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************/
+button {
+    background-color: #F00;
+    border: 1px solid #000;
+    border-radius: 10px;
+    color: #FFF;
+    padding: 10px;
+    margin: 5px;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[3]!./app/components/Cyclist/Cyclist.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************/
+.cyclist {
+    box-sizing: border-box;
+    border: 1px solid #000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    margin: 20px;
+}
+
+.rider-details {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.rider {
+    font-size: large;
+}
+
+.name {
+    font-weight: bold;
+}

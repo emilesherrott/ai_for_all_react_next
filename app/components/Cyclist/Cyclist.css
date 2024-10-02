@@ -1,0 +1,21 @@
+.cyclist {
+    box-sizing: border-box;
+    border: 1px solid #000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    margin: 20px;
+}
+
+.rider-details {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.rider {
+    font-size: large;
+}
+
+.name {
+    font-weight: bold;
+}

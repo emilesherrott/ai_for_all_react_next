@@ -1,7 +1,0 @@
-{
-    "presets": [
-      "@babel/preset-env", // Transpiles modern Javascript
-      "@babel/preset-react" // Transpiles JSX syntax to React.createElement()
-    ]
-  }
-  
